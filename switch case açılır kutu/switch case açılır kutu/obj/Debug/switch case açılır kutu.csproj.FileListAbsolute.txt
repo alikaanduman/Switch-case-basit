@@ -1,0 +1,9 @@
+C:\Users\Ogrenci1\Desktop\18.10.2017\switch case açılır kutu\switch case açılır kutu\bin\Debug\switch case açılır kutu.exe.config
+C:\Users\Ogrenci1\Desktop\18.10.2017\switch case açılır kutu\switch case açılır kutu\bin\Debug\switch case açılır kutu.exe
+C:\Users\Ogrenci1\Desktop\18.10.2017\switch case açılır kutu\switch case açılır kutu\bin\Debug\switch case açılır kutu.pdb
+C:\Users\Ogrenci1\Desktop\18.10.2017\switch case açılır kutu\switch case açılır kutu\obj\Debug\switch case açılır kutu.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\18.10.2017\switch case açılır kutu\switch case açılır kutu\obj\Debug\switch_case_açılır_kutu.Form1.resources
+C:\Users\Ogrenci1\Desktop\18.10.2017\switch case açılır kutu\switch case açılır kutu\obj\Debug\switch_case_açılır_kutu.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\18.10.2017\switch case açılır kutu\switch case açılır kutu\obj\Debug\switch case açılır kutu.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\18.10.2017\switch case açılır kutu\switch case açılır kutu\obj\Debug\switch case açılır kutu.exe
+C:\Users\Ogrenci1\Desktop\18.10.2017\switch case açılır kutu\switch case açılır kutu\obj\Debug\switch case açılır kutu.pdb
